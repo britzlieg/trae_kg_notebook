@@ -1,0 +1,299 @@
+{
+  "main": {
+    "id": "15e0d47212b743cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "75cff7613121ae5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b7aa6cb7124ad2b",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "wiki/concept/未归类/指纹库.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "指纹库 的关系图"
+            }
+          },
+          {
+            "id": "f50a0213469d0ea9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/concept/未归类/指纹库.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "指纹库"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "2763d86e30512237",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b619c620a56609c1",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "wiki/concept/未归类/指纹库.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 5,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "指纹库 的关系图"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5d34f0fa33a339c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "045653a411f567e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a9cac997eb8e424",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "85f202472748777b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "13dcb70618ceeca2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "35f3fb5e0ec28828",
+    "type": "split",
+    "children": [
+      {
+        "id": "247defc1f9e4369f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "574ffe1603ae0b1b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "wiki/summary/第二曲线-摘要.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "第二曲线-摘要 的反向链接列表"
+            }
+          },
+          {
+            "id": "ce8a23c546062230",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "wiki/concept/未归类/指纹库.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "指纹库 的出链列表"
+            }
+          },
+          {
+            "id": "46bc30cfe4f725e5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "6d6377234e8e2ff9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "56bfd6bd9d418f68",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "wiki/summary/第二曲线-摘要.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "第二曲线-摘要 的大纲"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "f50a0213469d0ea9",
+  "lastOpenFiles": [
+    "wiki/concept/未归类/DLP.md",
+    "wiki/summary/EDM-精确数据匹配-摘要.md",
+    "wiki/summary/第二曲线-摘要.md",
+    "raw/20260405/EDM.md",
+    "wiki/concept/未归类/商业模式创新.md",
+    "wiki/concept/未归类/文档指纹.md",
+    "wiki/concept/未归类/指纹库.md",
+    "wiki/concept/未归类/IDM.md",
+    "wiki/concept/未归类/非结构化数据.md",
+    "wiki/concept/未归类/结构化数据.md",
+    "wiki/concept/未归类/EDM.md",
+    "wiki/summary/IDM-索引数据匹配-摘要.md",
+    "raw/20260405/IDM.md",
+    "inbox/EDM.md",
+    "inbox/IDM.md",
+    "wiki/concept/未归类/企业生命周期.md",
+    "wiki/concept/未归类/增长曲线.md",
+    "wiki/index/tags.md",
+    "raw/20260405/第二曲线.md",
+    "inbox/第二曲线.md",
+    "wiki/concept/未归类/第二曲线.md",
+    "wiki/concept/未归类/增长理论.md",
+    "wiki/concept/未归类/查尔斯·汉迪.md",
+    "查尔斯·汉迪.md",
+    "增长理论.md",
+    "企业生命周期.md",
+    "wiki/concept/未归类",
+    "wiki/index",
+    "tmp"
+  ]
+}
