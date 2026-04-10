@@ -6,6 +6,7 @@
       {
         "id": "75cff7613121ae5c",
         "type": "tabs",
+        "dimension": 60.39426523297491,
         "children": [
           {
             "id": "9b7aa6cb7124ad2b",
@@ -50,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/concept/未归类/指纹库.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "指纹库"
+              "title": "README"
             }
           }
         ],
@@ -64,6 +65,7 @@
       {
         "id": "2763d86e30512237",
         "type": "tabs",
+        "dimension": 39.60573476702509,
         "children": [
           {
             "id": "b619c620a56609c1",
@@ -71,7 +73,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "wiki/concept/未归类/指纹库.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -94,12 +96,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
+                  "scale": 5.416435544289172,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "指纹库 的关系图"
+              "title": "README 的关系图"
             }
           }
         ]
@@ -159,7 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 452.5
   },
   "right": {
     "id": "35f3fb5e0ec28828",
@@ -194,12 +196,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wiki/concept/未归类/指纹库.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "指纹库 的出链列表"
+              "title": "README 的出链列表"
             }
           },
           {
@@ -266,13 +268,23 @@
   },
   "active": "f50a0213469d0ea9",
   "lastOpenFiles": [
+    "AGENTS.md",
+    "guide/Snipaste_2026-04-10_10-30-57.png",
+    "README.md",
+    "wiki/summary/透明多级分流系统-摘要.md",
+    "guide/Snipaste_2026-04-10_10-19-06.png",
+    "guide/Snipaste_2026-04-10_10-18-41.png",
+    "guide/Snipaste_2026-04-10_10-18-17.png",
+    "guide/Snipaste_2026-04-10_10-13-47.png",
+    "guide/Snipaste_2026-04-10_10-12-49.png",
+    "guide",
+    "wiki/concept/未归类/指纹库.md",
     "wiki/concept/未归类/DLP.md",
     "wiki/summary/EDM-精确数据匹配-摘要.md",
     "wiki/summary/第二曲线-摘要.md",
     "raw/20260405/EDM.md",
     "wiki/concept/未归类/商业模式创新.md",
     "wiki/concept/未归类/文档指纹.md",
-    "wiki/concept/未归类/指纹库.md",
     "wiki/concept/未归类/IDM.md",
     "wiki/concept/未归类/非结构化数据.md",
     "wiki/concept/未归类/结构化数据.md",
@@ -289,9 +301,6 @@
     "wiki/concept/未归类/第二曲线.md",
     "wiki/concept/未归类/增长理论.md",
     "wiki/concept/未归类/查尔斯·汉迪.md",
-    "查尔斯·汉迪.md",
-    "增长理论.md",
-    "企业生命周期.md",
     "wiki/concept/未归类",
     "wiki/index",
     "tmp"
